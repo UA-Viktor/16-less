@@ -1,5 +1,5 @@
 import name from './module';
-import './css/common.scss';
+import './css/file.scss';
 
 
 
